@@ -1,0 +1,5 @@
+acrcloud==14.10.2020
+PyAudio==0.2.11
+scipy==1.9.3
+sounddevice==0.4.5
+SpeechRecognition==3.8.1
